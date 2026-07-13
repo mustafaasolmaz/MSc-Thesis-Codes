@@ -16,9 +16,9 @@ Sonlu cisimler üzerinde polinomların çarpanlara ayrılması için gerekli tem
 
 ### 2. BigField Tabanlı Sistemler (Bölüm 5)
 Cisim Genişlemeleri ($\\mathbb{F}_{q^n}$) üzerinde tanımlanan tek değişkenli polinomların kullanıldığı öncü sistemler ve varyantları:
-*   **Matsumoto-Imai (MI / C*):** BigField ailesinin temelini atan orijinal kriptosistem.
+*   ***Matsumoto-Imai (MI / C*):*** BigField ailesinin temelini atan orijinal kriptosistem.
 *   **PMI (Perturbed MI):** Lineerleştirme saldırılarına karşı iç karıştırma (gürültü) eklenmiş MI varyantı.
-*   **SFLASH (C*-Minus):** Minus modifikasyonu ile güçlendirilmiş dijital imza şeması.
+*   ***SFLASH (C*-Minus):*** Minus modifikasyonu ile güçlendirilmiş dijital imza şeması.
 *   **Temel HFE (Hidden Field Equations):** Derece sınırı (D) ile kurgulanmış genel merkez dönüşüm mimarisi.
 *   **HFEv- (Vinegar + Minus):** NIST PQC adaylarına (GeMSS, Gui vb.) temel oluşturan modern HFE varyantı.
 
